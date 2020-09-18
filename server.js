@@ -46,4 +46,4 @@ app.get('/parOuImpar', (req, res) => {
     })
 })
 
-app.listen(8080, () => console.log('Executanto..'))
+app.listen(8080, () => console.log('Executando...'))
